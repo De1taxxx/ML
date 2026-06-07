@@ -1,4 +1,4 @@
-**Machine Learning Laboratory Works**
+# **Machine Learning Laboratory Works**
 
 Репозиторий содержит лабораторные работы по дисциплине «Машинное обучение в системах искусственного интеллекта».
 
