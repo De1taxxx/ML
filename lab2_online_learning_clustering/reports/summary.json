@@ -1,0 +1,15 @@
+{
+  "dataset_rows": 1000,
+  "dataset_columns": 16,
+  "selected_kmeans_k": 5,
+  "selected_kmeans_silhouette": 0.5682,
+  "best_classifier": "Random Forest",
+  "class_count": 5,
+  "cluster_names": {
+    "0": "stable_students",
+    "1": "at_risk_students",
+    "2": "catch_up_students",
+    "3": "stable_students",
+    "4": "stable_students"
+  }
+}

@@ -1,24 +1,21 @@
-# Machine Learning Laboratory Works
+# Machine Learning. Лабораторная работа 2
 
-Репозиторий содержит лабораторные работы по дисциплине «Машинное обучение в системах искусственного интеллекта».
+В репозитории находится лабораторная работа по кластеризации студентов онлайн-платформы по стилю обучения.
 
-## Лабораторная работа №1
-
-**Тема:** Прогнозирование успеваемости студентов онлайн-курса.
-
-Задача относится к бинарной классификации. На основе активности студента модель прогнозирует, завершит ли он онлайн-курс успешно.
-
-Папка проекта:
+## Состав
 
 ```text
-lab1_student_performance_prediction/
+ml_lab2_online_learning/
+├── lab2_online_learning_clustering/
+└── requirements.txt
 ```
 
 ## Быстрый запуск
 
 ```bash
-cd lab1_student_performance_prediction
+cd lab2_online_learning_clustering
 pip install -r requirements.txt
-python code.py
+python generate_data.py
+python project.py
 python predict.py
 ```

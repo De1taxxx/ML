@@ -1,0 +1,11 @@
+method,parameter,silhouette_score
+KMeans,k=2,0.5798
+KMeans,k=3,0.4405
+KMeans,k=4,0.5021
+KMeans,k=5,0.5682
+KMeans,k=6,0.4262
+DBSCAN,"eps=1.0, min_samples=8",0.6053
+DBSCAN,"eps=1.2, min_samples=10",0.5804
+Agglomerative,n_clusters=2,0.5798
+Agglomerative,n_clusters=3,0.4189
+Agglomerative,n_clusters=4,0.5053

@@ -1,0 +1,11 @@
+                            precision    recall  f1-score   support
+
+          at_risk_students       0.96      0.96      0.96        55
+         catch_up_students       1.00      0.93      0.97        30
+practice_oriented_students       0.97      1.00      0.98        57
+           social_learners       0.98      0.96      0.97        51
+    video_focused_students       0.95      0.96      0.96        57
+
+                  accuracy                           0.97       250
+                 macro avg       0.97      0.96      0.97       250
+              weighted avg       0.97      0.97      0.97       250
