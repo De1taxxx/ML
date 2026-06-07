@@ -1,0 +1,23 @@
+Model comparison
+================
+
+K-Nearest Neighbors:
+  Accuracy:  0.8067
+  Precision: 0.8383
+  Recall:    0.8187
+  F1-score:  0.8284
+  ROC-AUC:   0.8856
+
+Logistic Regression:
+  Accuracy:  0.8067
+  Precision: 0.8693
+  Recall:    0.7778
+  F1-score:  0.821
+  ROC-AUC:   0.9007
+
+Random Forest:
+  Accuracy:  0.7967
+  Precision: 0.8526
+  Recall:    0.7778
+  F1-score:  0.8135
+  ROC-AUC:   0.9051
